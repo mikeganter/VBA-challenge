@@ -23,7 +23,6 @@ j = 1
 
 ' each loop, (i) add to stock volume counter; (ii) check to see if next row contains same ticker; (iii) if new ticker in following row, complete calculations and send values to the summary table
 For i = 2 To lastrow
-'For i = 2 To 264
 
         
         
